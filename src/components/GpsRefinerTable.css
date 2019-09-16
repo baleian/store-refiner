@@ -1,0 +1,7 @@
+.GpsRefinerTable .error {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.GpsRefinerTable .warning {
+    background-color: rgba(255, 145, 0, 0.5);
+}

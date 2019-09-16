@@ -1,0 +1,11 @@
+.DataTable {
+    font-size: 13px;
+}
+
+.DataTable .react-bootstrap-table-editing-cell input {
+    font-size: 13px;
+}
+
+.DataTable .react-bootstrap-table-editing-cell textarea {
+    font-size: 13px;
+}
